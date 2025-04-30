@@ -3,7 +3,6 @@ import facebook from "../assets/projects-imgs/img/facebookclone.png";
 import internship from "../assets/projects-imgs/img/internship.png";
 import sponge from "../assets/projects-imgs/img/sponge.png";
 import todoReact from "../assets/projects-imgs/img/todoraect.png";
-import quote from "../assets/projects-imgs/img/quotegen.png";
 import one from "../assets/projects-imgs/1.png";
 import five from "../assets/projects-imgs/5.png";
 import two from "../assets/projects-imgs/2.png";
@@ -119,16 +118,6 @@ const myProjects = [
     type: "react",
     github: "https://github.com/Ruaa-Maher-Faroun/Rock-Scissor-Paper-Game",
     liveDemo:"https://rock-scissor-paper-game-roaafaroun.netlify.app/",
-    
-  },
-  {
-    image: quote,
-    id: "7",
-    name: "Quote Generator",
-    tools: ["Html", "Css", "Js", "API"],
-    type: "html&css - js",
-    github: "https://github.com/Ruaa-Maher-Faroun/Quote-Generator",
-    liveDemo:"https://Ruaa-Maher-Faroun.github.io/Quote-Generator/",
     
   },
   {
