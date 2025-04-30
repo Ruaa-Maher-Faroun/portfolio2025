@@ -9,7 +9,7 @@ import five from "../assets/projects-imgs/5.png";
 import two from "../assets/projects-imgs/2.png";
 import three from "../assets/projects-imgs/3.png";
 import four from "../assets/projects-imgs/4.png";
-import rockGame from "../assets/projects-imgs/img/rockGame.png";
+import rockGame from "../assets/projects-imgs/img/rockgame.png";
 import ticReact from "../assets/projects-imgs/img/ticreact.png";
 import NetflixClone from "../assets/projects-imgs/img/homepage.png";
 const myProjects = [
