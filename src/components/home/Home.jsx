@@ -1,6 +1,6 @@
 import React from 'react'
 import {  Container, Row } from 'react-bootstrap'
-import CV from "../../assets/Rua'a Faroun-CV.pdf";
+import CV from "../../assets/Rua'a Faroun- CV.pdf";
 import HomeImg from './HomeImg'
 import './home.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
