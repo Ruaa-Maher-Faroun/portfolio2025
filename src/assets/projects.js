@@ -138,7 +138,7 @@ const myProjects = [
     name: "Facebook Clone",
     tools: ["Html", "Css"],
     type: "html&css",
-    github: "https://github.com/Ruaa-Maher-Faroun/facebook-clone-",
+    github: "https://github.com/Ruaa-Maher-Faroun/fb-cln-roaa-maher",
     liveDemo: "https://Ruaa-Maher-Faroun.github.io/fb-cln-roaa-maher/",
     
   },
