@@ -1,0 +1,28 @@
+section.skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 100px;
+    flex-direction: column;
+  }
+  div.skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 50px 65px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  .skills img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    position: relative;
+  }
+  
+  

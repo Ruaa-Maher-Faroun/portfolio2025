@@ -1,0 +1,20 @@
+
+.contact-section-btn {
+    font-size: 5rem;
+    margin-right: 80px;
+  }
+  .contact-icon:hover > path {
+    color: #8256d0;
+  }
+  @media screen and (max-width: 950px) {
+    .contact {
+      margin-top: 50px;
+      flex-direction: column;
+    }
+  
+    .contact-section-btn {
+      font-size: 5rem;
+      margin-right: 0px;
+    }
+  }
+  

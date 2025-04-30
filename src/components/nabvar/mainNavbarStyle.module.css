@@ -1,0 +1,28 @@
+.navTextColor *{
+    color: red;
+}
+
+
+.navBorder{
+    box-shadow:0 0 4px rgba(0,255,255,0.2)
+}
+
+
+.nameFont {
+    font-family: "Mr Dafoe", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.links {
+    margin-right: 35px;
+  color:rgb(248 249 250);
+
+}
+
+.contactBtn {
+    background: linear-Gradient(to left, #0a0ae3, #411853) !important;
+    padding-left:  10px!important;
+    padding-right:  10px!important;
+    border-radius: 5px;
+}

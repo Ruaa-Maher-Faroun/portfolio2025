@@ -1,0 +1,56 @@
+.home {
+    background-image: url("../../assets/banner-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+  justify-content: space-between;
+
+  }
+  .intro {
+    text-align: left;
+  }
+  
+  .margin {
+    margin: 15px 0;
+  }
+  
+  .b-size {
+    font-size: 5rem;
+  }
+  
+  
+  .home .cv {
+    background: linear-gradient(to left, blue, purple);
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 160px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  .home .cv:hover {
+    box-shadow: 0px 0px 8px 4px #5c285a;
+  }
+  .home .btn {
+    display: inline-block;
+    background: linear-Gradient(to left, #0a0ae3, #411853);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    padding: 15px ;
+    border-radius: 10px;
+    gap:15px;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  @media screen and (max-width: 950px) {
+    .home {
+      justify-content: center;
+      padding: 30px;
+    }
+  }
+  
