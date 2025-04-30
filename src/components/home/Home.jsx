@@ -15,6 +15,7 @@ export default function Home() {
             
         <h4 className="margin">Welcome 👋</h4>
         <h1 className="margin b-size">Hi! I'm Roa'a Faroun</h1>
+             <h2 className="margin"> Frontend Dev | Software Engineer</h2>
             <div className="btns d-flex">
 
             <a href='#projects' className='btn me-3'>Projects
