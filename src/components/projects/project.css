@@ -19,39 +19,6 @@ margin-right: 20px;
 .projectimg{
     object-fit: cover;
 }
-/* 
-.swiper {
-    width: 70%;
-    height: 80%;
-    color: #000;
-  }
-  
-  .swiper-slide {
-    text-align: center;
-    font-size: 18px;
-    background: #fff;
-  
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .swiper {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-
-   */
-
 
 
 .active {
@@ -59,4 +26,26 @@ margin-right: 20px;
     border: none!important;
     color:#fff
     !important;
+}
+
+@media (max-width:615px) {
+  .projects {
+    margin-top: 150px;
+  }
+  .projectcard {
+    max-width: 70%;
+
+  }
+  .projectcard img {
+    object-fit: cover;
+
+  }
+}
+@media (max-width:460px) {
+  .projectcard {
+    max-width: 50%;
+  }
+  .card-body{
+    text-align: center;
+  }
 }
