@@ -29,11 +29,14 @@ margin-right: 20px;
 }
 
 @media (max-width:615px) {
+  .cards{
+        width: 100%;
+  }
   .projects {
     margin-top: 150px;
   }
   .projectcard {
-    max-width: 70%;
+    max-width: 85%;
 
   }
   .projectcard img {
@@ -43,9 +46,20 @@ margin-right: 20px;
 }
 @media (max-width:460px) {
   .projectcard {
-    max-width: 50%;
+    max-width: 70%;
   }
   .card-body{
     text-align: center;
   }
+    .filter {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media (max-width:370px) {
+  .projectcard {
+    max-width: 50%;
+  }
+
+  
 }
